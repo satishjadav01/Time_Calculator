@@ -1,7 +1,7 @@
 # Time_Calculator
 
-=> Time Calculator Web App
--> Project Overview
+## Time Calculator Web App
+## Project Overview
 The Time Calculator is a modern, responsive web application that lets users:
 
 Select two dates and times.
@@ -18,7 +18,7 @@ Get a special alert notification if both times are exactly the same.
 
 Toggle between light mode and dark mode for a sleek, user-friendly experience.
 
-*-> Key Features
+## Key Features
 1) Date & Time Picker: Intuitive dropdowns for hours, minutes, seconds, and AM/PM toggle.
 2) Live Time Format: Automatically converts to a 24-hour format for clarity.
 3)Time Difference Finder: Displays precise time difference and progress percentage of a day.
@@ -28,7 +28,7 @@ Toggle between light mode and dark mode for a sleek, user-friendly experience.
 7) Dark Mode Toggle: Switch between light and dark themes with a single click.
 8) Same Time Alert: Fun feature that alerts the user if both times are identical!
 
--> Tech Stack
+## Tech Stack
 HTML5 — Structure of the web page.
 
 CSS3 — Responsive, modern glassmorphism UI design with gradient backgrounds.
@@ -53,7 +53,7 @@ Export your history or clear it anytime.
 
 Toggle dark/light mode as per your preference.
 
-* Ideal For
+## Ideal For
 This project is perfect for:
 
 Learning JavaScript DOM manipulation.
@@ -64,7 +64,7 @@ Implementing dark mode and progress bar animations.
 
 Showcasing clean UI/UX design in a practical utility tool.
 
-* Try It & Customize
+## Try It & Customize
 You can easily extend this project by:
 
 Adding timezone support.
@@ -76,8 +76,12 @@ Enhancing UI animations.
 Adding date difference calculation.
 
 Deploying it on GitHub Pages, Netlify, or Vercel.
+## screenshot
+<img width="1893" height="871" alt="Screenshot 2025-10-25 205438" src="https://github.com/user-attachments/assets/160ce2d9-8c66-47ee-93a2-02ab504e7f80" />
+2.
+<img width="1899" height="852" alt="Screenshot 2025-10-25 205526" src="https://github.com/user-attachments/assets/46a07cb4-47f1-426f-8e25-2fbb16b58da7" />
 
-* What You’ll Learn
+## What You’ll Learn
 1) JavaScript event handling
 2)Date & time manipulation
 3) Local storage management
